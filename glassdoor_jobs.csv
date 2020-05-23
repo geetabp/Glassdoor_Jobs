@@ -1,0 +1,760 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+0,"Software Engineer, Machine Learning",-1,"--COVID-19 Hiring Update--
+
+Dataminr is still actively hiring.
+
+As the health and safety of our candidates and our employees come first,
+
+we're excited to provide virtual experiences for interviews and new hire on-boarding.
+
+This is an office-based role, but we will provide all the necessary support to work remotely until our offices reopen.
+
+Type: Full Time
+Experience: 3+ years
+
+Who we are:
+
+We are Dataminr. We are a mission-driven company committed to the power of AI, public data, and real-time information as a force for good in the world. Over the last decade, our team has established and refined the leading AI platform for real-time event and risk detection. We surface the earliest signals of unfolding events and emerging risks within an increasingly diverse and complex landscape of publicly available information, enabling more effective risk mitigation strategies, faster response, and better crisis management. Dataminr serves thousands of professionals in 70+ countries by delivering timely, relevant, and actionable alerts to public and private sector organizations around the world.
+
+We've grown to over 500 talented employees across seven global offices and raised $392 million in funding in our most recent investment round. Our culture promotes cross-team interaction, work-life balance and the sharing of information and ideas because it enables us to do our best work together, make a meaningful contribution, and have fun. Join us and help the world manage risk in real time.
+
+Who you are:
+
+You're an engineer who has a science background or has worked with scientists running experiments, implementing production quality state-of-the art algorithms, and exploring large data sets. You are passionate about having a positive impact on the world. You are enthusiastic about working on some of the most challenging problems in AI and are a passionate builder of solutions that directly contribute to products. You want to advance the state of the art by working closely with scientists to implement novel approaches, and have the skillset to develop engineering solutions to solve real problems in production, at scale.
+
+Responsibilities
+Work directly on all aspects of science problems with other members of the AI team: from inception, brainstorming, and reading of scientific literature, to data exploration and implementation of methods created in-house, and productization of these methods.
+Work as liaison between the AI Group and engineering teams across the company in defining the right production delivery channels and processes for state-of-the-art algorithms and models (via APIs, libraries, etc.).
+In addition to production code, create prototypes and demos, iterating quickly while making savvy choices to ensure that approaches chosen from the literature or developed in-house can scale and are implemented for optimal performance.
+Work with the team in solving specific problems at scale in one or more of the following areas: NLP, Information Retrieval, Complex Networks, Recommender Systems, Computer Vision, Machine/Deep Learning, etc..
+Work closely with a diverse, interdisciplinary team to deliver value to customers (existing and new products).
+Excel in placing a human-centered focus on the work (context, end-user impact, etc), finding solutions that work in practice and have significant impact.
+Senior candidates are expected to lead technical areas and/or people.
+Minimum qualifications
+M.S. in Computer science. Ph.D. studies in any field a plus.
+Industry experience (2 or more years) as an Engineer or Data Scientist required.
+Experience building services or APIs using object oriented languages and corresponding frameworks
+Experience in one or several of the following areas: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Knowledge Representation and Management, etc.
+Experience in Python, Java, Scala or similar languages.
+Expertise with machine learning and deep learning tools (TensorFlow, PyTorch, Scikit-learn, etc.) for experimentation and deployment.
+Experience working with scientists, reading technical research papers, and implementing state-of-the-art methods in production.
+Why you should work here:
+
+We recognize and reward hard work with:
+competitive compensation package including company equity.
+paid benefits for employees and their dependents, including medical, dental, vision, disability and life insurance.
+401(k) savings plan with company matching.
+flexible spending account for out-of-pocket medical, transit, parking and dependent care expenses.
+We want you to be your best, authentic self by supporting you with:
+a diverse, driven, and passionate team of coworkers who want you to succeed.
+opportunities to own and drive important critical projects.
+individual Learning and Development fund and professional training.
+generous leave and flexible hours.
+daily catered lunch and a fully stocked kitchen.
+And more!
+Dataminr is an equal opportunity and affirmative action employer. Individuals seeking employment at Dataminr are considered without regards to race, sex, color, creed, religion, national origin, age, disability, genetics, marital status, pregnancy, unemployment status, sexual orientation, citizenship status or veteran status.
+
+#LI-BM",-1,"Dataminr
+3.8","New York, NY","New York, NY",201 to 500 employees,2009,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+1,Data Scientist,-1,"Join Our Growing Team
+A career with A Place for Mom is an opportunity for you to join a rapidly expanding company committed to making a difference for seniors and their families. A Place for Mom is an online platform connecting families searching for senior care services with a team of experienced advisors providing insight-driven and personalized solutions. Our mission, as the leader in senior care advisory, is to be a trusted destination for families and our community customers. We are a quickly growing organization with over 500 advisors connecting more than 300K families every year to one of our community customers.
+Living by our values and working to achieve excellence on behalf of our customers is integral to success at A Place for Mom. Employees who thrive at A Place for Mom live our values every day and are an important part of our hiring practices:
+Focus on Excellence
+Act with Integrity & Assume Positive Intent
+Drive Outcomes Every Day with Passion and A Sense of Mission
+Make the Lives of our Families and Customers Better, Easier and More Successful
+Realize the Full Potential in Each Team Member. Work as a Single Supportive Team
+The Position
+Based in New York, NY or Overland Park, KS, the Data Scientist builds prediction algorithms that help serves families and our senior living community customers more efficiently. This position will support the sales teams in our efforts to drive continued market share growth. The Data Scientist will work within the Commercial Operations team to increase efficiency and improve the customer experience through the application of statistics and machine learning. This position will support the Sales & Operations teams in our efforts to drive greater market share, improve move-in conversion and grow our bottom line.
+Who You Are
+You are a self-starter who is passionate about increasing efficiency and improving the customer experience through the application of statistics and machine learning. You are able to work independently and lead efforts to drive lead prioritization, customer segmentation, enhanced data analysis, experimental design & testing, business intelligence, and business reporting. You are a strong communicator and enjoy working with talented and driven people that will challenge you to reach the next level.
+
+Incorporate APFM Values into each customer and co-worker interaction
+Design implement and maintain models that optimize the customer experience and help our sales team prioritize the right leads at the right time
+Develop predictive models that balance accuracy with human interpretability and help evaluate and improve the early stages of the sales funnel
+Deign experiments to test the impact of models on customer conversion and other metrics
+Evolve a Random Forest based model that sorts leads near the end of their journey through the sales process
+Manage & monitor the day to day operation of the servers running existing models and their connection to data repositories
+Develop and evaluate models that segment customers at a number of steps along the sales process, with the ultimate goal of improving the customer’s experience through segmentation
+Operate and maintain tools that combine disparate data sources and are written in python and R while developing novel ways to utilize the vast amounts of data that APFM maintains
+Collaborate with teams throughout APFM to identify the appropriate metrics, define effective test groups, design experiments, calculate samples sizes and evaluate the results of these tests
+Investigate business problems and validate assumptions through statistical analysis
+Assist the analyst team in generating reports, troubleshooting reports and pulling data to better understand Commercial Operations and Sales trends & performance
+Act as the primary lead for the team’s machine learning and statistics who can define a path forward to address business questions in these areas
+As the team grows and the need for statistics and machine learning increases we anticipate that the Data Scientist will manage at least one data analyst
+
+2+ years applying statistical and machine-learning methods to solve business problems
+Strong SQL skills
+Strong Python programming skills; additional experience in R nice to have but not required
+Experience maintaining code repositories in git
+Sharp problems solving skills and strong statistics skills
+Strong fundamentals and intuition in applied statistics for both prediction and explanation
+Able to build, optimize, and test prediction and forecasting models
+Familiarity with basic Linux tools
+Able to quickly understand business problems and implement experimental designs
+Able to balance analytical rigor against meeting deadlines
+Knowledge of causal analysis methods
+Excellent presentation, writing, and data visualization skills
+Experience using AWS to implement data science workflows is a plus
+Experience working with product managers and business stakeholders to build products driven by prediction models and insights from data analysis
+Ability to convey machine learning and statistics concepts to non-experts
+Education Requirements.
+Bachelor’s degree in technical field required.
+Compensation
+The position is a salaried, exempt position.
+#LI-AR1",-1,"A Place for Mom
+3.1","New York, NY","New York, NY",501 to 1000 employees,2000,Company - Private,Healthcare Services & Hospitals,Healthcare,Unknown / Non-Applicable,"Enlivant, Sunrise Senior Living, Brookdale Senior Living"
+2,Data Scientist,-1,"Join Our Growing Team
+A career with A Place for Mom is an opportunity for you to join a rapidly expanding company committed to making a difference for seniors and their families. A Place for Mom is an online platform connecting families searching for senior care services with a team of experienced advisors providing insight-driven and personalized solutions. Our mission, as the leader in senior care advisory, is to be a trusted destination for families and our community customers. We are a quickly growing organization with over 500 advisors connecting more than 300K families every year to one of our community customers.
+Living by our values and working to achieve excellence on behalf of our customers is integral to success at A Place for Mom. Employees who thrive at A Place for Mom live our values every day and are an important part of our hiring practices:
+Focus on Excellence
+Act with Integrity & Assume Positive Intent
+Drive Outcomes Every Day with Passion and A Sense of Mission
+Make the Lives of our Families and Customers Better, Easier and More Successful
+Realize the Full Potential in Each Team Member. Work as a Single Supportive Team
+The Position
+Based in New York, NY or Overland Park, KS, the Data Scientist builds prediction algorithms that help serves families and our senior living community customers more efficiently. This position will support the sales teams in our efforts to drive continued market share growth. The Data Scientist will work within the Commercial Operations team to increase efficiency and improve the customer experience through the application of statistics and machine learning. This position will support the Sales & Operations teams in our efforts to drive greater market share, improve move-in conversion and grow our bottom line.
+Who You Are
+You are a self-starter who is passionate about increasing efficiency and improving the customer experience through the application of statistics and machine learning. You are able to work independently and lead efforts to drive lead prioritization, customer segmentation, enhanced data analysis, experimental design & testing, business intelligence, and business reporting. You are a strong communicator and enjoy working with talented and driven people that will challenge you to reach the next level.
+
+Incorporate APFM Values into each customer and co-worker interaction
+Design implement and maintain models that optimize the customer experience and help our sales team prioritize the right leads at the right time
+Develop predictive models that balance accuracy with human interpretability and help evaluate and improve the early stages of the sales funnel
+Deign experiments to test the impact of models on customer conversion and other metrics
+Evolve a Random Forest based model that sorts leads near the end of their journey through the sales process
+Manage & monitor the day to day operation of the servers running existing models and their connection to data repositories
+Develop and evaluate models that segment customers at a number of steps along the sales process, with the ultimate goal of improving the customer’s experience through segmentation
+Operate and maintain tools that combine disparate data sources and are written in python and R while developing novel ways to utilize the vast amounts of data that APFM maintains
+Collaborate with teams throughout APFM to identify the appropriate metrics, define effective test groups, design experiments, calculate samples sizes and evaluate the results of these tests
+Investigate business problems and validate assumptions through statistical analysis
+Assist the analyst team in generating reports, troubleshooting reports and pulling data to better understand Commercial Operations and Sales trends & performance
+Act as the primary lead for the team’s machine learning and statistics who can define a path forward to address business questions in these areas
+As the team grows and the need for statistics and machine learning increases we anticipate that the Data Scientist will manage at least one data analyst
+
+2+ years applying statistical and machine-learning methods to solve business problems
+Strong SQL skills
+Strong Python programming skills; additional experience in R nice to have but not required
+Experience maintaining code repositories in git
+Sharp problems solving skills and strong statistics skills
+Strong fundamentals and intuition in applied statistics for both prediction and explanation
+Able to build, optimize, and test prediction and forecasting models
+Familiarity with basic Linux tools
+Able to quickly understand business problems and implement experimental designs
+Able to balance analytical rigor against meeting deadlines
+Knowledge of causal analysis methods
+Excellent presentation, writing, and data visualization skills
+Experience using AWS to implement data science workflows is a plus
+Experience working with product managers and business stakeholders to build products driven by prediction models and insights from data analysis
+Ability to convey machine learning and statistics concepts to non-experts
+Education Requirements.
+Bachelor’s degree in technical field required.
+Compensation
+The position is a salaried, exempt position.
+#LI-AR1",-1,"A Place for Mom
+3.1","New York, NY","Mountain View, CA",201 to 500 employees,2012,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+3,Machine Learning Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Samsung NEXT
+3.5","New York, NY","Austin, TX",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+4,Machine Learning Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Seen by Indeed
+5.0","New York, NY","New York, NY",501 to 1000 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+5,Data Scientist,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Via Transportation
+3.7","New York, NY","Mountain View, CA",201 to 500 employees,2012,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+6,NLP Machine Learning Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Samsung NEXT
+3.5","New York, NY","Hartford, CT",201 to 500 employees,1985,Company - Private,Insurance Operators,Insurance,Unknown / Non-Applicable,"Colony Specialty, Markel, RLI"
+7,Data Scientist,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"IFG Companies
+2.9","New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee"
+8,Data Scientist,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Affinity Solutions
+2.9","New York, NY","New York, NY",51 to 200 employees,1993,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+9,Research Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"PDT Partners
+4.2","New York, NY","New York, NY",201 to 500 employees,2009,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+10,Research Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Dataminr
+3.8","New York, NY","San Francisco, CA",51 to 200 employees,2015,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+11,Machine Learning Engineer,-1,"With one application you can be considered for thousands of tech roles from leading companies on Seen.
+
+Seen by Indeed is a free service that connects you to opportunities that take you further in your career.
+Join today to be seen and make your mark in your next tech role.
+With just one application, we'll show you off to hundreds of employers once your profile is approved.
+Seen matches you to opportunities based off where you've been and where you want to go in your career.
+Talk to career coaches for free to help you set your best foot forward whether it be during the interview process or during a promotion.
+
+By creating an account, you agree to Indeed's Terms of Service, Cookie Policy and Privacy Policy.",-1,"Triplebyte
+3.6","New York, NY","San Francisco, CA",1 to 50 employees,2016,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1
+12,Senior Data Scientist,-1,"ABOUT HOPPER
+
+At Hopper, we’re on a mission to make booking travel faster, easier, and more transparent. We are leveraging the power that comes from combining massive amounts of data and machine learning to build the world’s fastest-growing travel app -- one that enables our customers to save money and travel more. With over $235M CAD in funding from leading investors in both Canada and the US, Hopper is primed to continue its path toward becoming the go-to way to book travel as the world continues its shift to mobile.
+
+Recognized as the fastest-growing travel app by Forbes and one of the world’s most innovative companies by Fast Company two years in a row, Hopper has been downloaded over 40 million times and has helped travelers plan over 100 million trips and counting. The app has received high praise in the form of mobile accolades such as the Webby Award for Best Travel App of 2019, the Google Play Award for Standout Startup of 2016 and Apple’s App Store Best of 2015.
+
+Take off with us!
+
+THE ROLE
+
+Hopper is looking for a data-savvy individual to join our team as a Data Scientist and lead data-centric product development and complex business intelligence projects within our core air travel business unit. Every day you would draw powerful insights from our real-time feed of billions of flight search results and archives of several trillion data points. To succeed at Hopper you need the talent, passion, and experience to thrive in a highly performing company.
+IN THIS ROLE YOU WILL:
+Frame and conduct complex exploratory analyses needed to deepen our understanding of Hopper users.
+Partner with product, business and strategy teams to leverage this user understanding for product improvements and other initiatives
+Use machine learning and big data tools on tremendously large and complex data sets to enhance our data-driven, personalized travel advice
+Conduct research into various aspects of our business and employ statistical and modeling techniques when appropriate to make recommendations to non-technical stakeholders
+Create advanced dashboards for product experiment tracking and business unit performance analysis using Amplitude and Tableau
+Find effective ways to simplify and communicate analyses to a non-technical audience.
+A PERFECT CANDIDATE HAS:
+A degree in Math, Statistics, Computer Science, Engineering or other quantitative disciplines
+Extremely strong analytical and problem-solving skills
+Proven ability to communicate complex technical work to a non-technical audience
+A strong passion for and extensive experience in conducting empirical research and answering hard questions with data
+Experience with a data visualization tool (Tableau preferred) and project analysis tool such as Amplitude
+Experience with relational databases and SQL, especially Hive
+Experience working with extremely large data sets
+Experience in Pandas, R, SAS or other tools appropriate for large scale data preparation and analysis
+Experience with data mining, machine learning, statistical modeling tools and underlying algorithms
+Proficiency with Unix/Linux environments
+BENEFITS
+
+• Well-funded and proven startup with large ambitions, competitive salary and stock options
+• Dynamic and entrepreneurial team where pushing limits is everyday business
+• 100% employer paid medical, dental, vision, disability and life insurance plans
+• Access to a 401k (US) or Retirement Savings Plan (Canada)
+• Easy commute with a paid-for public transportation or parking pass
+• Fully stocked kitchen with: coffee/tea, beer, bagels and snacks (both healthy and not-healthy)
+• Team lunches, offsite activities and much more!",-1,"Spoke (CA)
+5.0","New York, NY","Montreal, Canada",501 to 1000 employees,2007,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1
+13,"Software Engineer, Machine Learning - Search and Recs",-1,"Company Description
+
+As an Etsy employee, you can do the work you love, be yourself, and make an impact in the lives of millions. Our commitments to diversity and inclusion, team culture and the spaces where we work all reflect our mission to keep commerce human.
+
+Job Description
+
+About the Team
+
+Our teams are responsible for search ranking and recommendations. Our aim is to present the best of Etsy's inventory. As an engineer on our team, you will play a major role in improving the shopping experience for millions of Etsy buyers. We're a cross-functional group of engineers, data scientists, product managers, designers, and researchers.
+
+With your help, we are giving our buyers better tools to find what they are looking for and to help them form a connection with our sellers. In this role, you will put your skills to use by helping us improve the ranking and suggestions of localized results through machine learning algorithms. You will also create workflows and pipelines to effectively transform data into appropriate results for our buyers. You will join a talented team of engineers to collaborate on all of these projects.
+
+In this role, you will have the opportunity to work with our Data Science and ML team, Data Platform team and many more product squads. We're a growing team with a huge impact that builds tools and platform capabilities for data scientists and ML engineers to access feature data, build machine learning models, test hypotheses and productionize them on our ML platform hosted in Google Cloud. We value empathy, communication and technical skills equally. Here's a taste of the problems we're solving:
+How can we help someone find that perfect item, even when they don't know what they're looking for?
+How do we rank millions of search results in a matter of milliseconds, so that we're always surfacing the best of Etsy?
+How can we maximize the relevance of search results over an enormous range of queries and buyers?
+How can the search experience make Etsy come to life and feel as vibrant as the community of makers that's behind it?
+How can we understand buyer's motives and interests to personalize their experience?
+How can we help buyers to explore the breadth of Etsy's inventory?
+Our production systems rely on PHP, JavaScript, Java, Python and Scala; we are proud to have an engineering culture that encourages career growth and learning. You can learn more about our philosophies, tools, and some of the challenges we've been solving on our Engineering blog: http://codeascraft.com/
+
+We are language-agnostic in our approach to interviewing.
+
+This role is located in our Brooklyn HQ.
+
+Qualifications
+Experience with objective-oriented programming languages: Python, Java, Scala, etc.
+Familiarity with machine learning and deep learning solutions across the entire machine learning stack, from data collection to evaluation
+Experience with machine learning frameworks (like PySpark, Scalding, etc.)
+Strong verbal and written communication skills.
+About the Role
+
+In this role you will:
+Contribute at all levels of Etsy's search and recommendations stacks, ranging from application back-end technologies (PHP, Java, Python, MySQL, Scala, Vertica) as well as machine learning stack (PySpark, Scalding, Airflow).
+Work cross-functionally with various engineering teams (e.g. machine learning infrastructure, data science, search experience), participating in design, prioritization and implementation.
+Develop and train machine learning data sources and models, both to iterate on existing features and develop new features.
+Use feature engineering tools and principles to clean and transform data into signals driving listing quality
+Deploy models to production, sometimes including application development for your feature.
+Provide detailed and constructive design and code reviews.
+Empathy, communication, and technical skill are valued equally.
+About You
+
+You will do well in this role if you:
+Enjoy thinking about the implications of your work on end users.
+You are comfortable collaborating with Product Managers, Data Analysts, and Designers to ensure that you're delivering impactful product features.
+Have experience operating within a large codebase and working to create simplicity from complex systems, including using experiments and data to drive decision making.
+Are an analytical thinker and understand how to wield data to make informed decisions about your work.
+Write understandable, testable code with an eye towards maintainability.
+You turn ideas into deeply reliable and well tested code that other people - or you, six months into the future - will find easy to comprehend and modify.
+You have worked with machine learning and understand the needs of data scientists and ML engineers.
+You have solid engineering and coding skills, data structure knowledge and ability to write high performance production quality code.
+Additional Information
+
+At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We welcome people from all backgrounds, ethnicities, cultures, and experiences. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skillsets.",-1,"Etsy
+3.9","Brooklyn, NY","Brooklyn, NY",501 to 1000 employees,2005,Company - Public,Other Retail Shops,Retail,₹10 to ₹50 billion (INR),"Airbnb, Warby Parker, Kickstarter"
+14,"Software Engineer, Machine Learning - Search and Recs",-1,"Company Description
+
+As an Etsy employee, you can do the work you love, be yourself, and make an impact in the lives of millions. Our commitments to diversity and inclusion, team culture and the spaces where we work all reflect our mission to keep commerce human.
+
+Job Description
+
+About the Team
+
+Our teams are responsible for search ranking and recommendations. Our aim is to present the best of Etsy's inventory. As an engineer on our team, you will play a major role in improving the shopping experience for millions of Etsy buyers. We're a cross-functional group of engineers, data scientists, product managers, designers, and researchers.
+
+With your help, we are giving our buyers better tools to find what they are looking for and to help them form a connection with our sellers. In this role, you will put your skills to use by helping us improve the ranking and suggestions of localized results through machine learning algorithms. You will also create workflows and pipelines to effectively transform data into appropriate results for our buyers. You will join a talented team of engineers to collaborate on all of these projects.
+
+In this role, you will have the opportunity to work with our Data Science and ML team, Data Platform team and many more product squads. We're a growing team with a huge impact that builds tools and platform capabilities for data scientists and ML engineers to access feature data, build machine learning models, test hypotheses and productionize them on our ML platform hosted in Google Cloud. We value empathy, communication and technical skills equally. Here's a taste of the problems we're solving:
+How can we help someone find that perfect item, even when they don't know what they're looking for?
+How do we rank millions of search results in a matter of milliseconds, so that we're always surfacing the best of Etsy?
+How can we maximize the relevance of search results over an enormous range of queries and buyers?
+How can the search experience make Etsy come to life and feel as vibrant as the community of makers that's behind it?
+How can we understand buyer's motives and interests to personalize their experience?
+How can we help buyers to explore the breadth of Etsy's inventory?
+Our production systems rely on PHP, JavaScript, Java, Python and Scala; we are proud to have an engineering culture that encourages career growth and learning. You can learn more about our philosophies, tools, and some of the challenges we've been solving on our Engineering blog: http://codeascraft.com/
+
+We are language-agnostic in our approach to interviewing.
+
+This role is located in our Brooklyn HQ.
+
+Qualifications
+Experience with objective-oriented programming languages: Python, Java, Scala, etc.
+Familiarity with machine learning and deep learning solutions across the entire machine learning stack, from data collection to evaluation
+Experience with machine learning frameworks (like PySpark, Scalding, etc.)
+Strong verbal and written communication skills.
+About the Role
+
+In this role you will:
+Contribute at all levels of Etsy's search and recommendations stacks, ranging from application back-end technologies (PHP, Java, Python, MySQL, Scala, Vertica) as well as machine learning stack (PySpark, Scalding, Airflow).
+Work cross-functionally with various engineering teams (e.g. machine learning infrastructure, data science, search experience), participating in design, prioritization and implementation.
+Develop and train machine learning data sources and models, both to iterate on existing features and develop new features.
+Use feature engineering tools and principles to clean and transform data into signals driving listing quality
+Deploy models to production, sometimes including application development for your feature.
+Provide detailed and constructive design and code reviews.
+Empathy, communication, and technical skill are valued equally.
+About You
+
+You will do well in this role if you:
+Enjoy thinking about the implications of your work on end users.
+You are comfortable collaborating with Product Managers, Data Analysts, and Designers to ensure that you're delivering impactful product features.
+Have experience operating within a large codebase and working to create simplicity from complex systems, including using experiments and data to drive decision making.
+Are an analytical thinker and understand how to wield data to make informed decisions about your work.
+Write understandable, testable code with an eye towards maintainability.
+You turn ideas into deeply reliable and well tested code that other people - or you, six months into the future - will find easy to comprehend and modify.
+You have worked with machine learning and understand the needs of data scientists and ML engineers.
+You have solid engineering and coding skills, data structure knowledge and ability to write high performance production quality code.
+Additional Information
+
+At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We welcome people from all backgrounds, ethnicities, cultures, and experiences. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skillsets.",-1,"Etsy
+3.9","Brooklyn, NY","New York, NY",501 to 1000 employees,2000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+15,Staff Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Jane Street
+4.8","New York, NY","Stockholm, Sweden",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,-1
+16,Staff Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Spotify
+3.7","New York, NY","Stamford, CT",1001 to 5000 employees,2014,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
+17,Staff Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Point72
+3.9","New York, NY","Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+18,Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Amazon
+3.9","New York, NY","Stockholm, Sweden",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,-1
+19,Machine Learning Engineer - Personalization,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Spotify
+3.7","New York, NY","New York, NY",1 to 50 employees,-1,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+20,Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Temboo
+3.9","New York, NY","Charlotte, NC",10000+ employees,1904,Company - Public,Banks & Building Societies,Finance,₹500+ billion (INR),-1
+21,Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Bank of America
+3.7","New York, NY","Menlo Park, CA",10000+ employees,2004,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Apple"
+22,"Software Engineer, Machine Learning",-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Facebook
+4.4","New York, NY","Haledon, NJ",51 to 200 employees,1904,Company - Private,Mining,Mining & Metals,Unknown / Non-Applicable,-1
+23,Mining Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Braen Stone
+3.0","Haledon, NJ","Portland, OR",201 to 500 employees,1990,Company - Public,Internet,Information Technology,₹5 to ₹10 billion (INR),-1
+24,Machine Learning Research Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Schrödinger
+4.2","New York, NY","New York, NY",1001 to 5000 employees,2012,Company - Public,"Health, Beauty & Fitness",Consumer Services,Unknown / Non-Applicable,-1
+25,Machine Learning Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Peloton
+3.6","New York, NY","New York, NY",51 to 200 employees,2011,Company - Private,Internet,Information Technology,₹10 to ₹50 billion (INR),"Crossix Solutions Inc., AppNexus, The Trade Desk"
+26,Data Scientist/Machine Learning,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"PulsePoint
+4.3","New York, NY","Mc Lean, VA",1001 to 5000 employees,1994,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),-1
+27,Machine Learning/Artificial Intelligence Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Digital Intelligence Systems, LLC
+3.7","Jersey City, NJ","New York, NY",501 to 1000 employees,1984,Company - Private,Staffing & Outsourcing,Business Services,₹10 to ₹50 billion (INR),-1
+28,Machine Learning/Artificial Intelligence Engineer,-1,"The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we're behind some of Spotify's most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you'll keep millions of users listening by making great recommendations to each and every one of them.
+
+What you will learn and do
+Deliver core machine learning contributions to optimize user satisfaction with personalized content in playlists, radio, and other listening experiences.
+Work closely with Product, User Research, Data Scientists, and other engineers in a 50-person organization to develop machine learning approaches that advance our mission to connect fans and artists.
+Prototype new approaches and productionize solutions at scale for our hundreds of millions of active users; provide mentorship to machine learning engineers across the org to further these efforts.
+As part of the leadership team of a 50-person org, develop and help execute our long-term strategy and roadmap.
+Be accountable for algorithmic fairness and responsibility of playlist content recommendations systems.
+Identify opportunities for platformization and communicate requirements to platform teams.
+Who you are
+You have a strong background in building content recommendation products with machine learning, especially systems that have served 1M+ users. You have 6+ years of machine learning experience, 3+ years in an industry setting.
+You're passionate about improving the experience of music listeners with personalization.
+You have hands-on experience implementing production machine learning content recommendations systems at scale in Java, Scala, Python, or similar languages. Experience with XGBoost, TensorFlow is also a plus.
+You have experience with data pipeline tools like Apache Beam or even our open source API for it, Scio, and cloud platforms like GCP or AWS.
+You care about agile software processes, data-driven development, reliability, and disciplined experimentation.
+You keep up with state of the art research by reading papers, attending conferences, and participating in research communities.
+Nice to have
+Multimedia (audio, image, and/or video) recs experience
+Strong passion for music
+Published in top-tier machine learning conferences / journals
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what's playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world's most popular audio streaming subscription service with a community of more than 286 million users.",-1,"Mitchell Martin
+4.1","New York, NY","Brooklyn, NY",51 to 200 employees,2010,Company - Private,Industrial Manufacturing,Manufacturing,Unknown / Non-Applicable,-1
+29,Data Scientist - Alpha Insights,-1,"Two Sigma is a different kind of investment manager. Since 2001, we have used data science and technology to derive insights that forecast the future and discover value in markets worldwide. Our team of scientists, technologists and academics looks beyond traditional finance to understand the bigger picture and develop creative solutions to some of the world’s most challenging economic problems. Our work spans across markets and industries, from insurance and securities to private investments and new ventures.
+
+The Alpha Insights team at Two Sigma is looking for an entrepreneurial data scientist to contribute to its data-driven investment initiatives. Alpha Insights crowdsources the world’s investment insights and through such data creation we are an integral part of Two Sigma investment management process. We interact with people external to the firm to collect and analyze their investment insights through our web and mobile products.
+
+Data science in Alpha Insights has 3 missions: (1) make relevant data and metrics accessible to the team (2) perform analyses to guide business and product decisions and (3) build data-driven features that power our products.
+
+You will take on the following responsibilities:
+Deliver metrics and analyses to all functions within Alpha Insights including product, design, and business units
+Write ETLs to convert structure/unstructured data into stable data assets
+Build visualizations to enable team members to extract relevant insights
+Apply statistical analysis and exploratory techniques to enable data-driven decision making
+Own data-driven product components (e.g. ranking and recommendation algorithms)
+
+You should possess the following qualifications:
+3-5 years of experience in data analysis or similar role
+MS or PhD in Computer Science, Statistics, Economics or related, quantitative field
+Experience applying statistical methods (distribution analysis, classification, regression, clustering, etc.). Application of these methods to user behavior a plus
+Demonstrated experience highlighting innovation, creativity, and intuition, e.g. the ability to laterally identify other sources of useful information and think 'outside the box'
+Strong data transformation skills (e.g. using Pandas, R,)
+Software engineering skills in at least one imperative programming language
+Communication skills to explain metrics/analyses to members of management, engineering, product and business teams.
+Prior experience in finance is not required
+
+You will enjoy the following benefits:
+Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, 401k match, employer-paid life & disability insurance
+Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms
+Learning: Tuition reimbursement, conference and training sponsorship
+Time Off: Generous vacation, sick days, and paid caregiver leaves
+
+We are proud to be an equal opportunity workplace. We do not discriminate based upon race, religion, color, national origin, sex, sexual orientation, gender identity/expression, age, status as a protected veteran, status as an individual with a disability, or any other applicable legally protected characteristics.",-1,"Nanotronics
+3.6","New York, NY","New York, NY",1001 to 5000 employees,2001,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1
