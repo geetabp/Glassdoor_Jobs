@@ -150,4 +150,4 @@ def get_jobs(num_jobs,verbose):
                         
 if __name__ =='__main__':
     df = get_jobs(10,True)
-    df.to_csv('glassdoor_jobs.csv')
+    df.to_csv('glassdoor_jobs.csv',index=False)
